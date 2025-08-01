@@ -4,10 +4,9 @@ workflows:
     max_build_duration: 60
     environment:
       vars:
-        PACKAGE_NAME: "com.sqa.earnigs" # আপনার app package
+        PACKAGE_NAME: "com.sqa.earnigs"
       node: 16
       java: 11
-      android: true
     scripts:
       - name: Install npm dependencies
         script: npm install
@@ -21,4 +20,3 @@ workflows:
       email:
         recipients:
           - bdsonghd3@gmail.com
-
