@@ -5,8 +5,8 @@ workflows:
     environment:
       vars:
         PACKAGE_NAME: "com.sqa.earnigs"
-      node: 16
-      java: 11
+      node: 22
+      java: 17
     scripts:
       - name: Install npm dependencies
         script: npm install
