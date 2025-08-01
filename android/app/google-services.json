@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773485604855",
+    "project_id": "sqa-earning",
+    "storage_bucket": "sqa-earning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773485604855:android:9a55c42bd28e31db3b08f2",
+        "android_client_info": {
+          "package_name": "com.sqa.earnigs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_awtw16qKxPVqa_aFCFW9s_Ueb0CryI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
